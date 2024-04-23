@@ -1,0 +1,29 @@
+{
+
+    "//// Mod Compatibility Toggle":"//// If you're using any mods that change these values, please set this value to true. ////",
+    
+    "modCompatibility": false,
+
+    "//// Weight Options":"////",
+
+    "baseWeightLowerLimit": 26, "// Default: 21":"// Yellow overweight limit //",
+    "baseWeightUpperLimit": 67, "// Default: 81":"// Red overweight limit //",
+    "walkWeightLowerLimit": 45, "// Default: 42":"//",
+    "walkWeightUpperLimit": 75, "// Default: 70":"//",
+    "walkSpeedWeightLowerLimit": 35, "// Default: 34":"//",
+    "walkSpeedWeightUpperLimit": 75, "// Default: 75":"//",
+    "sprintWeightLowerLimit": 26, "/// Default: 21":"//",
+    "sprintWeightUpperLimit": 63, "// Default: 58":"//",
+
+    "//// Mod-compatible Weight Options":"//// Use these settings if modCompatibility is true. These values are multipliers! ////",
+    
+    "cbaseWeightLowerLimit": 1, "// Yellow overweight limit //":"",
+    "cbaseWeightUpperLimit": 1, "// Red overweight limit //":"",
+    "cwalkWeightLowerLimit": 1,
+    "cwalkWeightUpperLimit": 1,
+    "cwalkSpeedWeightLowerLimit": 1,
+    "cwalkSpeedWeightUpperLimit": 1,
+    "csprintWeightLowerLimit": 1,
+    "csprintWeightUpperLimit": 1
+
+}
